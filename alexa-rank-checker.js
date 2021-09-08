@@ -9,7 +9,7 @@ CreateCSS.innerHTML=`
 #alexaButton{background-color:#009ee0;color:#fff;font-size:13px;margin:20px 0 10px;padding:15px;border:0;border-radius:99em;cursor:pointer}
 #alexaButton:hover{background-color:rgba(0,158,224,.8);color:#fff}
 #alexaRank{color:#009ee0;font-size:30px;font-weight:bold;margin:15px 0}
-#alexaInfo{color:#333;font-size:13px;}
+#alexaInfo{color:#333;font-size:13px}
 `;
 document.body.append(CreateCSS);
 var dataValue=0;
