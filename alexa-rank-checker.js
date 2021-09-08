@@ -12,7 +12,7 @@ CreateCSS.innerHTML=`
 #alexaInfo{color:#333;font-size:13px;}
 `;
 document.body.append(CreateCSS);
-var dataHasil=0;
+var dataValue=0;
 if (document.getElementById("alexaChecker")){
     document.getElementById("alexaChecker").innerHTML=`
 <div id="alexaTitle">Alexa Rank Checker</div>
